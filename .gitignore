@@ -2,3 +2,4 @@
 /client/.parcel-cache
 /client/node_modules
 .env
+package-lock.json
